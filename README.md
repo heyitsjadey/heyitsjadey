@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jadebandao
+- 👋 Hi, its me @heyitsjadey
 - 👀 I’m interested in ... languages, music, travelling, and design
 - 🌱 I’m currently learning ... front-end web development
 - 💞️ I’m looking to collaborate on ...anyone
